@@ -31,7 +31,7 @@ https://www.kaggle.com/osmi/mental-health-in-tech-2016/version/1
 	<br>
 </div>
 <div align="center">
-	<img width="500" height="3500" src="img/svm.png" alt="SVM Accuracy">
+	<img width="500" height="350" src="img/svm.png" alt="SVM Accuracy">
 	<br>
 	<br>
 </div>
