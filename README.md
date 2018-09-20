@@ -19,7 +19,7 @@ Use DBSCAN clustering to identify and separate data into different clusters. Obt
 
 ## Results
 
-<div style="width: 100%; overflow: hidden;">
+<div align="center">
 	<div width="350px" float="left">
 		<img width="350" height="230" src="img/nva.png" alt="Naive Bayes Accuracy">
 		<br>
