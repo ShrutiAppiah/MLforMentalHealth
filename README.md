@@ -12,8 +12,8 @@ We used PCA to reduce the dimensionality of survey responses in the dataset, the
 
 The SVM ultimately performed better. SVMs are a perfect candidate given the relatively small volume of our dataset. 
 
-A. Identify clusters against the mental illness binary (i.e. the 'Do you currently have a mental health disorder?') while considering all other attributes at once <br/>
-B. Identify contrasting clusters (YES/NO/No Preference) based on the mental illness binary while considering each attribute one by one iteratively.
+- Identify clusters against the mental illness binary (i.e. the 'Do you currently have a mental health disorder?') while considering all other attributes at once <br/>
+- Identify contrasting clusters (YES/NO/No Preference) based on the mental illness binary while considering each attribute one by one iteratively.
 <br/><br/>
 Use DBSCAN clustering to identify and separate data into different clusters. Obtain the number of clusters. To classify data, run SVM.
 
