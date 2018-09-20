@@ -20,12 +20,12 @@ Use DBSCAN clustering to identify and separate data into different clusters. Obt
 ## Results
 
 <div style="width: 100%; overflow: hidden;">
-	<div width="500px" float="left">
+	<div width="300px" float="left">
 		<img width="300" height="210" src="img/nva.png" alt="Naive Bayes Accuracy">
 		<br>
 		<br>
 	</div>
-	<div style="margin-left:520px;" width="500px" float="right">
+	<div style="margin-left:320px;" width="500px" float="right">
 		<img width="300" height="210" src="img/svm.png" alt="SVM Accuracy">
 		<br>
 		<br>
