@@ -25,7 +25,7 @@ Use DBSCAN clustering to identify and separate data into different clusters. Obt
 		<br>
 		<br>
 	</div>
-	<div width="500px" float="right">
+	<div style="margin-left:520px;" width="500px" float="right">
 		<img width="300" height="210" src="img/svm.png" alt="SVM Accuracy">
 		<br>
 		<br>
