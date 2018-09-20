@@ -26,10 +26,16 @@ https://www.kaggle.com/osmi/mental-health-in-tech-2016/version/1
 ## Results
 
 <div align="center">
-	<img width="500" height="400" src="img/nva.png" alt="Naive Bayes Accuracy">
+	<img width="500" height="350" src="img/nva.png" alt="Naive Bayes Accuracy">
 	<br>
 	<br>
 </div>
+<div align="center">
+	<img width="500" height="3500" src="img/svm.png" alt="SVM Accuracy">
+	<br>
+	<br>
+</div>
+
 
 ## Learnings
 - The dataset used was fairly limiting. Our testing and training models didn't perform optimally with both Navie Bayes nor SVM classifiers as a result.
