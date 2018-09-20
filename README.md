@@ -16,7 +16,13 @@ https://www.kaggle.com/osmi/mental-health-in-tech-survey
 <br/>
 https://www.kaggle.com/osmi/mental-health-in-tech-2016/version/1
 
-## Tests
+## Results
+
+<div align="center">
+	<img width="500" height="350" src="nva.png" alt="Naive Bayes Accuracy">
+	<br>
+	<br>
+</div>
 
 
 ## Contributors
