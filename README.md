@@ -1,6 +1,6 @@
 ## Paper & associated research
 
-Read the <a href="https://www.researchgate.net/publication/320310808_Density-based_Clustering_of_Workplace_Effects_on_Mental_Health"> associated IEEE-style research paper</a>
+Read the associated<a href="https://www.researchgate.net/publication/320310808_Density-based_Clustering_of_Workplace_Effects_on_Mental_Health"> IEEE-style research paper</a>
 
 ## Goal
 
