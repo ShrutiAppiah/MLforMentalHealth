@@ -49,3 +49,6 @@ https://www.kaggle.com/osmi/mental-health-in-tech-2016/version/1
 Shruti Appiah, Sam Barnard, and Jonathan Deiven
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright © 2018 Shruti Appiah
